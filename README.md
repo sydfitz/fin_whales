@@ -1,3 +1,3 @@
 # fin_whales
 
-cross_correlation.py: Runs a cross correlation analysis
+Written by Sydney Fitzgerald for purposes of use by Dr. Spiesberger's research group at the University of Pennsylvania.
